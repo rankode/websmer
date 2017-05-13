@@ -1,0 +1,53 @@
+
+@font-face {
+    font-family: airborne;
+    src: url(airborne.ttf);
+}
+
+body  {
+    background-image: url("http://burgerboys.com.au/img/BURGERBOYS_insta.png");
+    background-color: FFF0D8;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	overflow:scroll;
+}
+
+p {
+	color:#FFF;
+	font-family: Ariel;
+	font-size:50px;
+	text-align:center;
+}
+
+#social li {
+	display: inline;
+    list-style-type: none;
+    padding-right: 20px;
+}
+
+#menu li {
+    list-style-type: none;
+    padding-right: 20px;
+	font-family: airborne;
+	font-size:34px;
+	}
+
+#menu a:link {
+	text-decoration:none;
+	color:#000;
+}
+
+#menu a:visited {
+	text-decoration:none;
+	color:#000;
+}
+
+#menu a:hover {
+	text-decoration:none;
+	color:#000;
+}
+
+#menu a:active {
+	text-decoration:none;
+	color:#000;
+}
